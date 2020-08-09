@@ -1,0 +1,26 @@
+body {
+  background-color: 'powder-blue';
+}
+
+img {
+  height: 200px;
+}
+
+hr{
+  border-style: hidden;
+}
+
+h1 {
+  color: #4ea0ae;
+  font-style: normal;
+}
+
+h2 {
+  color: #4ea0ae;
+  font-style: italic;
+}
+
+h3{
+  color: #4ea0ae;
+  font-style: italic;
+}
